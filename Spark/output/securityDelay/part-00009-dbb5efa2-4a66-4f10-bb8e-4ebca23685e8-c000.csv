@@ -1,0 +1,2 @@
+Year,avg(((CAST(SecurityDelay AS DOUBLE) / CAST(ArrDelay AS DOUBLE)) * CAST(100 AS DOUBLE)))
+2006,0.0
